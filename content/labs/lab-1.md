@@ -234,6 +234,21 @@ app.get("/employees", (req, res) => {
 });
 ```
 
+### Крок 4. Виконання практичних завдань REST API
+
+1. Створено Node.js проєкт та підключено Express.
+2. Реалізовано HTTP-сервер з відповіддю `Hello from Node.js server`.
+3. Реалізовано `GET /students` для отримання JSON-списку студентів.
+4. Реалізовано `POST /students` для додавання студента (`id`, `name`, `group`).
+5. Реалізовано `PUT /students/:id` та `DELETE /students/:id` для оновлення і видалення.
+
+```http
+GET /students
+POST /students
+PUT /students/:id
+DELETE /students/:id
+```
+
 ---
 
 ## Скріншоти
