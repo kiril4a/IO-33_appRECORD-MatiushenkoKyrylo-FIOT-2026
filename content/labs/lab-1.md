@@ -201,9 +201,9 @@ if (employeesContainer) {
 
 Результат відображення:
 
-![Desktop-версія](./lab-1/screen-1.png)
-![Tablet-версія](./lab-1/screen-tablet.png)
-![Mobile burger-menu](./lab-1/screen-mobile-menu.png)
+![Desktop-версія](/assets/labs/lab-1/screen-1.png)
+![Tablet-версія](/assets/labs/lab-1/screen-tablet.png)
+![Mobile burger-menu](/assets/labs/lab-1/screen-mobile-menu.png)
 
 ---
 
